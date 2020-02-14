@@ -17,6 +17,6 @@ My first python program, a good ol' game of Pong
 ## Credits
 
 Disclaimer: The original idea and project was taken from [this](https://www.youtube.com/watch?v=XGf2GcyHPhc&t=2368s) video.
-I just use it for educational purposes in order to practise reinforcement learning.
+I just use it for educational purposes in order to practise reinforcement learning and pretty much learning some game development in python.
 
 ### Enjoy !!!
